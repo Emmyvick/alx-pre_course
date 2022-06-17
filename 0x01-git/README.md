@@ -1,1 +1,1 @@
-non empty
+Readme on alx-pre_course
